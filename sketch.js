@@ -36,6 +36,7 @@ function setup(){
 
     bird = new Bird(100,100);
 
+    //class26
 }
 
 function draw(){
